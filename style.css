@@ -73,7 +73,7 @@ h2 {
 p {
     font-size: 20px;
     color: gray;
-    font-family:  sans-serif;
+    font-family: sans-serif;
     margin-top: 15px;
     margin-left: 120px;
     margin-right: 400px;
@@ -94,16 +94,16 @@ p {
 .boton1 {
     display: flex;
     position: absolute;
-bottom: 698px;
-left: 1218px;
+    bottom: 698px;
+    left: 1218px;
 }
 
-.boton2{
+.boton2 {
 
     display: flex;
     position: absolute;
-bottom: 698px;
-left: 1502px;
+    bottom: 698px;
+    left: 1502px;
 }
 
 
@@ -122,8 +122,8 @@ left: 1502px;
 }
 
 .flecha2 {
-font-size: 20px;
-    color: rgb(185, 185, 185) ;
+    font-size: 20px;
+    color: rgb(185, 185, 185);
     background-color: rgb(247, 247, 247);
     margin-top: 15px;
     margin-bottom: 15px;
@@ -133,40 +133,44 @@ font-size: 20px;
     border-color: white;
     position: absolute;
     top: 810px;
-right: 0px;
+    right: 0px;
 
 }
 
-.seccion6{
-display: flex;
-margin: 10px;
-padding: 15px;
+.seccion6 {
+    display: flex;
+    margin: 10px;
+    padding: 15px;
 }
 
 
-.seccion6, .Texto, .imagen, .imagen2{
-margin-top: 50px;
+.seccion6,
+.Texto,
+.imagen,
+.imagen2 {
+    margin-top: 50px;
 }
 
-.Texto, .subtitulo{
-font-family: 'Lucida Sans', 'Lucida Sans Regular' ;
-font-size: 35px;
-letter-spacing: 1px;
-
-}
-
-.texto-1{
-
-font-size: 15px;
-margin: 20px;
-margin-left: 120px;
+.Texto,
+.subtitulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 35px;
+    letter-spacing: 1px;
 
 }
 
+.texto-1 {
 
-.flecha11{
+    font-size: 15px;
+    margin: 20px;
+    margin-left: 120px;
+
+}
+
+
+.flecha11 {
     font-size: 20px;
-    color: rgb(185, 185, 185) ;
+    color: rgb(185, 185, 185);
     background-color: rgb(247, 247, 247);
     margin-top: 15px;
     margin-bottom: 15px;
@@ -175,12 +179,12 @@ margin-left: 120px;
     padding: 20px 45px;
     border-color: white;
     position: absolute;
-    top: 1350px ;
+    top: 1350px;
     left: 120px;
-  
+
 }
 
-.flecha22{
+.flecha22 {
     font-size: 20px;
     color: white;
     background-color: black;
@@ -190,67 +194,65 @@ margin-left: 120px;
     margin-right: 30px;
     padding: 20px 45px;
     position: absolute;
-    top: 1350px ;
+    top: 1350px;
     left: 232px;
 }
 
 
-.imagen1{
-height: 145px;
-width: 145px;
-margin-top: 60px;
-margin-left: 60px;
+.imagen1 {
+    height: 145px;
+    width: 145px;
+    margin-top: 60px;
+    margin-left: 60px;
 }
 
 
-.subtitulo1{
-font-family:'Lucida Sans';
-font-size: 30px;
-font-weight: 15% ;
-margin-top: 40px;
-margin-left: 240px;
-position: absolute;
-top: 1045px;
+.subtitulo1 {
+    font-family: 'Lucida Sans';
+    font-size: 30px;
+    font-weight: 15%;
+    margin-top: 40px;
+    margin-left: 240px;
+    position: absolute;
+    top: 1045px;
 }
 
-.parrafo1{
-font-size: 15px;
-margin-top: 40px;
-margin-left: 240px ;
-margin-right: 50px;
-position: absolute;
-top: 1140px ;
+.parrafo1 {
+    font-size: 15px;
+    margin-top: 40px;
+    margin-left: 240px;
+    margin-right: 50px;
+    position: absolute;
+    top: 1140px;
 
 }
 
-.imagen2{
-   margin-top: 60px;
+.imagen2 {
+    margin-top: 60px;
 
-    }
+}
 
-.imagen-2{
+.imagen-2 {
     height: 145px;
     width: 145px;
     margin-left: 60px;
 }
 
-.subtitulo2{
-    font-family:'Lucida Sans';
+.subtitulo2 {
+    font-family: 'Lucida Sans';
     font-size: 30px;
     margin-top: 40px;
-    font-weight: 15% ;
+    font-weight: 15%;
     margin-left: 240px;
     position: absolute;
-top: 1255px ;
+    top: 1255px;
 }
 
-.parrafo2{
+.parrafo2 {
     font-size: 15px;
-    margin-left:240px ;
+    margin-left: 240px;
     margin-top: 40px;
     position: absolute;
-    top: 1350px ;
-margin-right: 50px;
+    top: 1350px;
+    margin-right: 50px;
 }
-
-
