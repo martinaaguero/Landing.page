@@ -1,3 +1,5 @@
+
+
 * {
     margin: 0;
     padding: 0;
@@ -8,6 +10,7 @@
 .menu {
     display: flex;
 }
+
 
 .menu,
 a {
@@ -256,3 +259,81 @@ p {
     top: 1350px;
     margin-right: 50px;
 }
+
+.pie-de-pag{
+    display: flex;
+    flex-direction: row;
+background-color: rgb(47, 47, 47);
+margin: 5px;
+padding: 10px;
+height: 200px;
+width: 1200px;
+}
+
+.img-footer{
+position: absolute;
+top: 1620px;
+left: 50px;
+}
+
+.marca2{
+font-size: 30px;
+color:white ;
+position: absolute;
+bottom: 10px;
+}
+
+.caja1, .caja2, p{
+font-size: 15px;
+}
+
+.caja1{
+    margin-top: 50px;
+margin-left: 200px;
+}
+
+.caja2{
+margin-top: 50px;
+position: absolute;
+top: 1565px ;
+right: 450px;
+}
+
+.caja3{
+margin-top: 50px;
+position: absolute;
+top: 1565px;
+right: 50px;
+}
+
+input{
+background-color: rgb(73, 72, 72);
+font-size: 10px;
+margin: 5px;
+padding: 5px;
+box-shadow: none;
+height: 30px;
+width: 150px;
+border: none;
+}
+
+    .send{
+background-color: rgb(73, 72, 72) ;
+color: white;
+box-shadow: none;
+height: 40px;
+width: 55px;
+margin: 5px;
+padding: 5px;
+border: none;
+    }
+
+i, .fa-brands fa-twitter{
+color: white;
+position: absolute;
+top: 90px;
+right: 560px;
+}
+
+
+
